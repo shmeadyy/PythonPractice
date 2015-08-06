@@ -14,4 +14,4 @@ for state in state_names:
 				break
 	output.append(''.join(state_list).capitalize())
 
-print(output)	
+print(output)
